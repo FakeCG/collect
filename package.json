@@ -1,5 +1,5 @@
 {
-  "name": "collect",
+  "name": "@fakecg/collect",
   "version": "1.0.0",
   "description": "",
   "main": "dist/entry.package.js",
